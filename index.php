@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/bootstrap.css">	
 </head>
+
 <body>
 
   <div class="navbar navbar-dark bg-dark shadow-sm">
@@ -41,7 +42,5 @@
 	</div>
 	
   </section>
-  
-
 </body>
 </html>
